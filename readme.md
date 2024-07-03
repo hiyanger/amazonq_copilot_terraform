@@ -1,4 +1,4 @@
-AmazonQとCopilotの検証
+AmazonQとGitHub Copilotの検証
 
 - どんなプロンプトでどんなコードが生成されるか確認できる
 - ブログを書くために検証した
